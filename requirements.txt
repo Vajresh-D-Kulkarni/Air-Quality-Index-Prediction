@@ -1,0 +1,4 @@
+pandas
+numpy
+
+# -e .        # Triggers setup.py from requirements.txt
